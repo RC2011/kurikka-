@@ -14,3 +14,5 @@ kurikka-.pyでクリッカーゲームを起動できる。
 
 
 ![alt text](image.png)
+
+![panclikker2025-03-0916-12-13-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e7168adf-aa6b-4fb1-a646-3872557e030c)
